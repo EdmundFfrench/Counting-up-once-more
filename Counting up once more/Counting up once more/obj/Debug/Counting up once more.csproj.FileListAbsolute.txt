@@ -1,0 +1,6 @@
+C:\Users\edfrench\Downloads\Counting up once more\Counting up once more\bin\Debug\Counting up once more.exe.config
+C:\Users\edfrench\Downloads\Counting up once more\Counting up once more\bin\Debug\Counting up once more.exe
+C:\Users\edfrench\Downloads\Counting up once more\Counting up once more\bin\Debug\Counting up once more.pdb
+C:\Users\edfrench\Downloads\Counting up once more\Counting up once more\obj\Debug\Counting up once more.csprojAssemblyReference.cache
+C:\Users\edfrench\Downloads\Counting up once more\Counting up once more\obj\Debug\Counting up once more.exe
+C:\Users\edfrench\Downloads\Counting up once more\Counting up once more\obj\Debug\Counting up once more.pdb
